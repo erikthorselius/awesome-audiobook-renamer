@@ -4,6 +4,7 @@
 /web-app/WEB-INF
 
 # IDE support files
+/.gradle
 /.classpath
 /.launch
 /.project
@@ -38,6 +39,7 @@
 
 # "temporary" build files
 /target
+/build
 
 # other
 *.iws
